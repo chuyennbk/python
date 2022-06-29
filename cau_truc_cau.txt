@@ -1,0 +1,13 @@
+adj: tính từ
+	adj-ed	:	miêu tả cảm súc con người
+	adj-ing	: 	miêu tả cho vật (cái gì mang tính như thế nào)
+adv: trạng từ
+	bổ nghĩa cho động từ
+	
+Cấu trúc
+	- it + V(tobe) + adj(tính từ)
+	- for + N/V-ing
+	- so+Adj+that+... 	:quá đến nỗi mà
+	- N1 + whose + N2	: N2 của N1
+	- to + V0
+	- None of + N

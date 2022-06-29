@@ -1,0 +1,13 @@
+001000580560
+eb42a4
+[x]01. Class 
+[x]02. recruise
+[x]03. inherite
+[x]04. exception
+[x]05. thread
+[ ]06. worker
+[x]07. with as
+[ ]08. MultiProcessing   - https://www.youtube.com/watch?v=fKl2JW_qrso
+[x]09. Pilow             - https://www.youtube.com/watch?v=6Qs3wObeWwc
+[ ]10. Flash             - https://www.youtube.com/watch?v=YFBRVJPhDGY&list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX&index=11
+[ ]-Bookmark
