@@ -1,0 +1,14 @@
+https://linuxhint.com/generate-ssh-key-ubuntu/
+
+Step 1
+  In Local
+    $ ssh-keygen
+      Enter 3 times
+    $ cd ~/.ssh/
+    $ cat id_rsa.pub
+      copy contents
+  In Vbee server
+    update public key previous copy
+Step 2
+  In Local
+    ssh -p 47470 worker@thuan-phan-thuan.vbee.lge.com
